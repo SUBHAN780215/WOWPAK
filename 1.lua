@@ -3336,7 +3336,7 @@ function _G.InitModMenuTab()
         -- ==================== DEFINE MENU PAGE ====================
         SettingPageDefine.ModMenu = {
             Key = "ModMenu",
-            Text= "SUBHAN MENU",
+            Text= "MOD MENU",
             UIKey = "Setting_Page_Privacy", 
             Category = {
                 { Key = "Cat_ESP_Visual", Text= "ESP FEATURES", Stack = StackESPVisual },
